@@ -11,7 +11,7 @@ $ ./hospital_svc
 $ ./hospital_clnt --host=${HOST_NAME} --${COMMANDS} --file==${STRING} --id=${STRING}
 ```
 
-	List of __COMMANDS__
+####List of __COMMANDS__
 		* open : Opening the database on the server side
 			--file parameter is required
 		* close : Closing the database on the server side
